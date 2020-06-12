@@ -1,0 +1,4 @@
+[build]
+base = "weef_base/"
+publish = "weef_base/build/"
+command = "npm run build"
