@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9979161.chunk.css",
+    "main.js": "/static/js/main.a0dbb938.chunk.js",
+    "main.js.map": "/static/js/main.a0dbb938.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.433605da.js",
+    "runtime-main.js.map": "/static/js/runtime-main.433605da.js.map",
+    "static/js/2.dcb88c74.chunk.js": "/static/js/2.dcb88c74.chunk.js",
+    "static/js/2.dcb88c74.chunk.js.map": "/static/js/2.dcb88c74.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7f800355d745270b3a9aa41bcd168e16.js": "/precache-manifest.7f800355d745270b3a9aa41bcd168e16.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f9979161.chunk.css.map": "/static/css/main.f9979161.chunk.css.map",
+    "static/js/2.dcb88c74.chunk.js.LICENSE.txt": "/static/js/2.dcb88c74.chunk.js.LICENSE.txt",
+    "static/media/Voor.jpg": "/static/media/Voor.32f846c8.jpg",
+    "static/media/WEEF.svg": "/static/media/WEEF.4960cc98.svg",
+    "static/media/App.css": "/static/media/worn.62c227e6.jpg",
+    "static/media/bart.png": "/static/media/bart.9af693b3.png",
+    "static/media/borduursel.svg": "/static/media/borduursel.8ea912d5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.433605da.js",
+    "static/js/2.dcb88c74.chunk.js",
+    "static/css/main.f9979161.chunk.css",
+    "static/js/main.a0dbb938.chunk.js"
+  ]
+}
